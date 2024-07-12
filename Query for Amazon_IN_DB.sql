@@ -1,4 +1,4 @@
--- Day 02 of SQL Workshop SCHEMAS Amazon
+-- Amazon_IN_DB
 
 -- creating customers table
 DROP TABLE IF EXISTS customers;
