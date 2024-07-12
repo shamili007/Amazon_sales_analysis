@@ -1,5 +1,5 @@
 # Amazon Sales Analysis Project
-![Banner Image](https://drive.google.com/drive/folders/1z_HoohftBVFF901rvYMVxW2fpbAJmQN5)
+![Banner Image](https://www.pymnts.com/wp-content/uploads/2017/09/amazon-India.jpg?w=620)
 Welcome to the Amazon Sales Analysis project! In this project, we delve into analyzing sales
 data from Amazon to extract insights and trends that can help optimize sales strategies,
 understand customer behavior, and improve business operations.
