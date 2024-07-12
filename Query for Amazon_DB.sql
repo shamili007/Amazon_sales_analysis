@@ -1,4 +1,4 @@
--- Day 1 of SQL workshop
+-- Amazon_DB_Analysis
 
 -- Creating sellers table
 
