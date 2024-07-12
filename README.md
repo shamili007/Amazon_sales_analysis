@@ -29,7 +29,7 @@ analysis techniques:
 10. Identify the top 2 categories that have received maximum returns and their return
 percentage.
 ## Entity-Relationship Diagram (ERD)
-![ERD Image](insert_banner_image_link_here)
+![ERD Image](https://github.com/shamili007/Amazon_sales_analysis/blob/main/ERD%20Database.png)
 An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
 the tables in the dataset. This diagram provides a clear understanding of the data structure and
 helps in identifying key entities and their attributes.
